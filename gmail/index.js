@@ -11,3 +11,6 @@ jQuery("#Passwd").val(regArr[4]).click();
 jQuery("#PasswdAgain").val(regArr[4]).click();
 jQuery("#BirthDay").val(regArr[3].split("/")[0]).click();
 jQuery("#BirthYear").val("19" + regArr[3].split("/")[2]).click();
+
+
+
