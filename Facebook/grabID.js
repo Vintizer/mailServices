@@ -1,4 +1,3 @@
-// var list = document.getElementsByTagName("a");
 var list = document.querySelectorAll(".friendBrowserNameTitle>a");
 var arr= [];
 arr.push.apply(arr, list);
